@@ -1,0 +1,6 @@
+{
+  "name": "Plataforma de Estudos Maranhão Colonial - Padrão CEBRASPE",
+  "description": "Sessão de estudos imersiva e funcional sobre a História do Maranhão Colonial com trilha pedagógica modular e caderno de questões inéditas no formato Certo ou Errado da banca CEBRASPE.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
